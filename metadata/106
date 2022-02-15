@@ -2,6 +2,6 @@
 	"tokenId": "106",
 	"name": "Slot NFT #6",
 	"image_url": "https://raw.githubusercontent.com/Aqrare/kusoge-metadata/main/images/Slot.png",
-	"animation_url": "https://raw.githack.com/Aqrare/kusoge-metadata/main/game/SlotMachine/index.html",
+	"animation_url": "ipfs://QmY4B1E7NwC2G8cHnptN2PLrh6APbb9RojZchd37vbcwT1",
 	"Game": "Slot"
 }
